@@ -38,16 +38,6 @@ The second notebook performs deeper insights on chat data, including:
 
 ---
 
-## 📁 Repository Structure
-📦 flirt-detection-nlp-project
-│
-├── Flirt Prediction.ipynb # ML model training & flirt detection
-├── Flirt Detection - Analysis.ipynb # WhatsApp-style chat analytics
-└── README.md # Project documentation
-
-
----
-
 ## 🧠 Tech Stack Used
 
 - Python  
